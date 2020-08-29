@@ -1,0 +1,33 @@
+/*Extra small devices (Portrait phones, Less than 576)*/
+@media (max-width: 575.98px){
+	#facebook{
+		padding: 50px 0;
+	}
+	.logo{
+	height: 100%;	
+		width: 100%;
+	}
+	.lg-dec{
+		display: none;
+	}
+}
+
+/*small devices (Landscape phones, 576 and Up)*/
+@media (min-width: 576px) and (max-width: 767.98px){
+	
+}
+
+/*Medium devices (Tablets, 768 and Up)*/
+@media (min-width: 768px) and (max-width: 991.98px){
+
+}
+
+/*Large devices (desktops, 992 and Up)*/
+@media (min-width: 992px) and (max-width: 1199.98px){
+
+}
+
+/*Extra large devices (large desktops, 1200 and Up)*/
+@media (min-width: 1200px){
+
+}
